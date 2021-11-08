@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Ricardo\source\repos\Problemas Taller\Segunda Version Parcial\main.cpp(10,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Ricardo\source\repos\Problemas Taller\Segunda Version Parcial\main.cpp(40,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Segunda Version Parcial.vcxproj -> C:\Users\Ricardo\source\repos\Problemas Taller\Debug\Segunda Version Parcial.exe
